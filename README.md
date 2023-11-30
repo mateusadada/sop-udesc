@@ -3,3 +3,5 @@
 
 # SOP-UDESC
 Matéria do terceiro semestre da graduação.
+
+<hr><p align="center">Developed with ❤️ in Brazil 🇧🇷</p>
