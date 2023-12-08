@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This [README](https://github.com/mateusadada/python-DAD1-UDESC) is under development.
+> This [README](https://github.com/mateusadada/python-DAD1-UDESC) is in development.
 
 # SOP-UDESC
 Matéria do terceiro semestre da graduação.

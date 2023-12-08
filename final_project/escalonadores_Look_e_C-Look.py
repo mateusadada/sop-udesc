@@ -6,7 +6,7 @@ def look(valores, cabeca_atual):
     percurso_total = 0
     movimentos = [cabeca_atual]
 
-    # cria uma lista dos valores >= 500 e outra com o resto
+    # cria uma lista dos valores ≥ 500 e outra com o resto
     blocos_superiores = [dado for dado in valores if dado >= cabeca_atual]
     blocos_inferiores = [dado for dado in valores if dado < cabeca_atual]
 
@@ -27,7 +27,7 @@ def c_look(valores, cabeca_atual):
     percurso_total = 0
     movimentos = [cabeca_atual]
 
-    # cria uma lista dos valores >= 500 e outra com o resto
+    # cria uma lista dos valores ≥ 500 e outra com o resto
     blocos_superiores = [dado for dado in valores if dado >= cabeca_atual]
     blocos_inferiores = [dado for dado in valores if dado < cabeca_atual]
 
