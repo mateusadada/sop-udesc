@@ -73,6 +73,6 @@ You can also see the list of all [collaborators](https://github.com/mateusadada/
 
 ## 📄 License
 
-This project is under license MIT - see the file [LICENSE.md](https://github.com/mateusadada/SOP-UDESC/blob/main/LICENSE) for more details.
+This project is under the license MIT. See the [LICENSE.md](https://github.com/mateusadada/SOP-UDESC/blob/main/LICENSE) file for more details.
 
 <hr><p align="center">Developed with ❤️ in Brazil 🇧🇷</p>
