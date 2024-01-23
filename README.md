@@ -15,8 +15,8 @@
 - [Starting](#-starting)
 - [Features](#-features)
 - [Prerequisites](#-prerequisites)
-- [Built with](#%EF%B8%8F-built-with)
-- [Author](#%EF%B8%8F-author)
+- [Built with](#️-built-with)
+- [Author](#️-author)
 - [License](#-license)
 
 ## 🚀 Starting
@@ -35,19 +35,12 @@ It was fundamental to improve my knowledge in this language and it also helped w
 Used during the evolution of course and the final project:
 
 - Introduction to Operating Systems
-
 - Multiprogramming
-
 - Concurrent programming
-
 - Process management
-
 - Memory management
-
 - Input and output management
-
 - File system
-
 - Study of the major Operating Systems
 
 ## 📋 Prerequisites
