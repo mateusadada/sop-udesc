@@ -34,14 +34,14 @@ It was fundamental to improve my knowledge in this language and it also helped w
 
 Used during the evolution of course and the final project:
 
-- Introduction to Operating Systems
-- Multiprogramming
-- Concurrent programming
-- Process management
-- Memory management
-- Input and output management
-- File system
-- Study of the major Operating Systems
+- Introduction to Operating Systems.
+- Multiprogramming.
+- Concurrent programming.
+- Process management.
+- Memory management.
+- Input and output management.
+- File system.
+- Study of the major Operating Systems.
 
 ## 📋 Prerequisites
 
@@ -55,8 +55,8 @@ You need to have the Python language on your machine along with an IDE (Integrat
 
 ## 🛠️ Built with
 
-* [Python 3](https://www.python.org/) - The programming language used
-  * [Matplotlib](https://pypi.org/project/matplotlib/) - The library for the graph
+* [Python 3](https://www.python.org/) - The programming language used.
+  * [Matplotlib](https://pypi.org/project/matplotlib/) - The library for the graph.
 
 ## ✒️ Author
 
