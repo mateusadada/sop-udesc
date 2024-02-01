@@ -4,7 +4,7 @@
 <a href="https://github.com/mateusadada/SOP-UDESC/network/members"><img src="https://img.shields.io/github/forks/mateusadada/SOP-UDESC" alt="Forks Badge"/></a>
 <a href="https://github.com/mateusadada/SOP-UDESC/pulls"><img src="https://img.shields.io/github/issues-pr/mateusadada/SOP-UDESC" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/mateusadada/SOP-UDESC/issues"><img src="https://img.shields.io/github/issues/mateusadada/SOP-UDESC" alt="Issues Badge"/></a>
-<a href="https://github.com/mateusadada/SOP-UDESC"><img src="https://views.whatilearened.today/views/github/mateusadada/SOP-UDESC.svg" alt="Views Badge"/></a>
+<a href="https://github.com/SOP-UDESC"><img src="https://komarev.com/ghpvc/?username=SOP-UDESC&color=447ff7&label=views" alt="Views count Badge"/></a>
 <br><a href="https://mateusadada.github.io/SOP-UDESC" target="blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmateusadada.github.io%2FSOP-UDESC&logo=github" /></a>
 <a href="https://github.com/mateusadada/SOP-UDESC/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/mateusadada/SOP-UDESC?color=2b9348"></a>
 <a href="https://github.com/mateusadada/SOP-UDESC/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mateusadada/SOP-UDESC?color=2b9348" alt="License Badge"/></a>
