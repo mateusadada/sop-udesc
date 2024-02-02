@@ -4,7 +4,7 @@
 <a href="https://github.com/mateusadada/sop-udesc/network/members"><img src="https://img.shields.io/github/forks/mateusadada/sop-udesc" alt="Forks Badge"/></a>
 <a href="https://github.com/mateusadada/sop-udesc/pulls"><img src="https://img.shields.io/github/issues-pr/mateusadada/sop-udesc" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/mateusadada/sop-udesc/issues"><img src="https://img.shields.io/github/issues/mateusadada/sop-udesc" alt="Issues Badge"/></a>
-<a href="https://github.com/sop-udesc"><img src="https://komarev.com/ghpvc/?username=sop-udesc&color=447ff7&label=views" alt="Views count Badge"/></a>
+<a href="https://github.com/mateusadada/sop-udesc"><img src="https://komarev.com/ghpvc/?username=sop-udesc&color=447ff7&label=views" alt="Views count Badge"/></a>
 <br><a href="https://mateusadada.github.io/sop-udesc" target="blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmateusadada.github.io%2Fsop-udesc&logo=github" /></a>
 <a href="https://github.com/mateusadada/sop-udesc/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/mateusadada/sop-udesc?color=2b9348"></a>
 <a href="https://github.com/mateusadada/sop-udesc/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mateusadada/sop-udesc?color=2b9348" alt="License Badge"/></a>
